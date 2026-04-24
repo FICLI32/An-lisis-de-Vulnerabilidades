@@ -1,0 +1,136 @@
+{
+    "repositories": [
+        {
+            "url": "https://github.com/spring-projects/spring-amqp.git",
+            "path": "data/repos/spring-amqp"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-ldap.git",
+            "path": "data/repos/spring-ldap"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-shell.git",
+            "path": "data/repos/spring-shell"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-ai.git",
+            "path": "data/repos/spring-ai"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-boot.git",
+            "path": "data/repos/spring-boot"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-elasticsearch.git",
+            "path": "data/repos/spring-data-elasticsearch"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-framework.git",
+            "path": "data/repos/spring-framework"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-pulsar.git",
+            "path": "data/repos/spring-pulsar"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-credhub.git",
+            "path": "data/repos/spring-credhub"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-jpa.git",
+            "path": "data/repos/spring-data-jpa"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-couchbase.git",
+            "path": "data/repos/spring-data-couchbase"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-redis.git",
+            "path": "data/repos/spring-data-redis"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-security.git",
+            "path": "data/repos/spring-security"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-session.git",
+            "path": "data/repos/spring-session"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-integration.git",
+            "path": "data/repos/spring-integration"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-tools.git",
+            "path": "data/repos/spring-tools"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-integration-samples.git",
+            "path": "data/repos/spring-integration-samples"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-amqp-samples.git",
+            "path": "data/repos/spring-amqp-samples"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-kafka.git",
+            "path": "data/repos/spring-kafka"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-neo4j.git",
+            "path": "data/repos/spring-data-neo4j"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-build.git",
+            "path": "data/repos/spring-data-build"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-relational.git",
+            "path": "data/repos/spring-data-relational"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-mongodb.git",
+            "path": "data/repos/spring-data-mongodb"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-modulith.git",
+            "path": "data/repos/spring-modulith"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-commons.git",
+            "path": "data/repos/spring-data-commons"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-authorization-server.git",
+            "path": "data/repos/spring-authorization-server"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-ws.git",
+            "path": "data/repos/spring-ws"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-aot-smoke-tests.git",
+            "path": "data/repos/spring-aot-smoke-tests"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-restdocs.git",
+            "path": "data/repos/spring-restdocs"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-batch-extensions.git",
+            "path": "data/repos/spring-batch-extensions"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-batch.git",
+            "path": "data/repos/spring-batch"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-data-examples.git",
+            "path": "data/repos/spring-data-examples"
+        },
+        {
+            "url": "https://github.com/spring-projects/spring-petclinic.git",
+            "path": "data/repos/spring-petclinic"
+        }
+    ]
+}
