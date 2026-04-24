@@ -1,0 +1,15 @@
+[submodule "data/repos/java"]
+	path = data/repos/java
+	url = https://github.com/microsoft/java.git
+[submodule "data/repos/pyright"]
+	path = data/repos/pyright
+	url = https://github.com/microsoft/pyright.git
+[submodule "data/repos/semantic-kernel"]
+	path = data/repos/semantic-kernel
+	url = https://github.com/microsoft/semantic-kernel.git
+[submodule "data/repos/azure-sdk-for-python"]
+	path = data/repos/azure-sdk-for-python
+	url = https://github.com/Azure/azure-sdk-for-python.git
+[submodule "data/repos/debugpy"]
+	path = data/repos/debugpy
+	url = https://github.com/microsoft/debugpy.git
