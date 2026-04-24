@@ -1,0 +1,6 @@
+repo,total_dependencies,top_language,unique_types,unique_languages,type_github-action,type_java-archive,type_npm,type_python
+java,0,N/A,0,0,0.0,0.0,0.0,0.0
+debugpy,19,,2,2,16.0,3.0,0.0,0.0
+semantic-kernel,1825,javascript,3,3,61.0,0.0,1294.0,470.0
+azure-sdk-for-python,359,javascript,4,4,11.0,2.0,260.0,86.0
+pyright,83,javascript,2,2,27.0,0.0,56.0,0.0

@@ -39675,7 +39675,7 @@
   "distro": {},
   "descriptor": {
     "name": "syft",
-    "version": "1.42.4",
+    "version": "1.43.0",
     "configuration": {
       "catalogers": {
         "requested": {
@@ -39795,6 +39795,7 @@
           "erlang-library",
           "swipl-binary",
           "dart-binary",
+          "deno-binary",
           "haskell-ghc-binary",
           "haskell-cabal-binary",
           "haskell-stack-binary",
@@ -39803,6 +39804,7 @@
           "nginx-binary",
           "bash-binary",
           "openssl-binary",
+          "openldap-search-binary",
           "qt-qtbase-lib",
           "gcc-binary",
           "fluent-bit-binary",
