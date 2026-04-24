@@ -1,0 +1,29 @@
+{
+    "repositories": [
+        {
+            "url": "https://github.com/microsoft/java.git",
+            "path": "data/repos/java",
+            "ref": "null"
+        },
+        {
+            "url": "https://github.com/microsoft/pyright.git",
+            "path": "data/repos/pyright",
+            "ref": "null"
+        },
+        {
+            "url": "https://github.com/microsoft/semantic-kernel.git",
+            "path": "data/repos/semantic-kernel",
+            "ref": "null"
+        },
+        {
+            "url": "https://github.com/Azure/azure-sdk-for-python.git",
+            "path": "data/repos/azure-sdk-for-python",
+            "ref": "null"
+        },
+        {
+            "url": "https://github.com/microsoft/debugpy.git",
+            "path": "data/repos/debugpy",
+            "ref": "null"
+        }
+    ]
+}
